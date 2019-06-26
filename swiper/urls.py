@@ -5,18 +5,12 @@ from django.http import HttpResponse
 from django.shortcuts import render, redirect
 
 
-def login(request):
-    return HttpResponse("LOING")
-def register(request):
-    if request.method=='GET':
-        return render(request,'index.html')
-    return redirect('/login/')
-
 
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
+    # 用户相关
     url('^api/users/',include('user.urls')),
-    url('^login/',login),
-    url('^register/',register),
+    # 社交相关
+    url('^api/social/',include('social.urls')),
 
 ]
