@@ -30,5 +30,4 @@ class MyMiddlerMixin(MiddlewareMixin):
 #             raise ValidationError('验证失败')
 #         user_id=int(token[-4:])
 #         user=User.objects.filter(id=user_id).first()
-#         # TODO
 #         return user,token

@@ -14,5 +14,5 @@ class UserAuthentication(BaseAuthentication):
         user_id=int(token[-4:])
         user=User.objects.filter(id=1).first()
         request.user=user
-        # TODO
+
         return user,token

@@ -1,4 +1,4 @@
-import os
+import logging
 import random
 from datetime import datetime
 
@@ -13,11 +13,9 @@ from user.serializer import *
 from user.logic import send_shortmsg, save_img
 from utils.keys import VCODE, AVATAR_PATH
 from django.conf import settings
-
-
-# Create your views here.
 # 登录 注册 发送邮件
 from utils.user_sign import md5
+logger = logging.getLogger('info')
 
 
 class UserApiView(GenericViewSet, ListModelMixin, UpdateModelMixin):
@@ -77,6 +75,9 @@ class UserApiView(GenericViewSet, ListModelMixin, UpdateModelMixin):
         # 签名
         sign_md5 = md5(user_id=user_obj.id)
         request.session['token'] = sign_md5 + str(0000 + user_obj.id)
+
+        logger.info('登陆成功用户id{}'.format(user_obj.id))
+
         return Response({'code': 200, 'msg': '登陆成功'})
 
     @list_route(methods=['POST'],authentication_classes=[])

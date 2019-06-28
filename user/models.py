@@ -16,13 +16,14 @@ class User(models.Model):
     birth_day = models.CharField(max_length=64, verbose_name='出生日')
     avatar = models.CharField(max_length=255, verbose_name='个人形象')
     location = models.CharField(max_length=255, verbose_name='常居地')
-
+    vip_id = models.IntegerField(default=0, verbose_name='会员id')
     @property
     def profile(self):
         profile_obj = Profile.objects.filter(id=self.id).first()
         return profile_obj
-
-
+    @property
+    def my_friend(self):
+        return
 class Profile(models.Model):
     location = models.CharField(max_length=255, verbose_name='目标城市', null=True)
     min_distance = models.IntegerField(default=1, verbose_name='最小查找范围', null=True)
@@ -33,3 +34,5 @@ class Profile(models.Model):
     vibration = models.NullBooleanField(default=False, verbose_name='开启震动', null=True)
     only_matche = models.NullBooleanField(default=False, verbose_name='不让为匹配的人看我的相册', null=True)
     auto_play = models.NullBooleanField(default=False, verbose_name='自动播放视频', null=True)
+
+
