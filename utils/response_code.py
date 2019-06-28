@@ -1,0 +1,8 @@
+SUCCESS_CODE = 200  # 响应成功
+SERVER_BUSY_CODE = 1001  # 服务器繁忙请重试
+VCODE_ERROR = 1002  # 验证码错误
+USER_PWD_ERROR = 1003  # 用户名或密码错误
+VALIDATE_ERROR = 1004  # 数据校验错误
+USER_ALREADY_EXISTS = 1005  # 用户已存在
+# GET_PROFIEL_FAIL = 1006  # 获取用户信息失败
+REGRET_COUNTS_MAX=1006 # 后悔次数已达上限

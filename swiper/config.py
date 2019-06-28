@@ -4,6 +4,7 @@
 # authtoken ef5734d216679f56b4fc96f8ef45d8dc
 # request_url https://open.ucpaas.com/ol/sms/{function}
 
+""" 云之讯配置 """
 YZX_PARAMS={
 
  "sid":"0102cbeed4a0080ce5b60ae4e8145bf3",
