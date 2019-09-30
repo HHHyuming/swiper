@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329b0585-6a06-4f26-b0d4-69f18b8f2c8f" name="Default" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/swiper/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/swiper/urls.py" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/authenmiddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/authenmiddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/authentication.py" afterDir="false" />
@@ -11,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/keys.py" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +25,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/swiper$dbscript.coverage" NAME="dbscript Coverage Results" MODIFIED="1561558049618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+<<<<<<< HEAD
+=======
     <SUITE FILE_PATH="coverage/swiper$test.coverage" NAME="test Coverage Results" MODIFIED="1561634193223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/social" />
+>>>>>>> master
     <SUITE FILE_PATH="coverage/swiper$tests.coverage" NAME="tests Coverage Results" MODIFIED="1561465754912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user" />
   </component>
   <component name="DatabaseView">
@@ -40,6 +47,8 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="swiper@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+<<<<<<< HEAD
+=======
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="swiper@localhost" type="feb32156:DbDataSourceImpl" />
@@ -51,6 +60,7 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="swiper: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
+>>>>>>> master
     </expand>
     <select />
   </component>
@@ -59,6 +69,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swiper/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+=======
       <file leaf-file-name="orm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/orm.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,10 +84,21 @@
               <folding>
                 <element signature="e#13#48#0" expanded="true" />
               </folding>
+>>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swiper/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#1#41#0" expanded="true" />
+              </folding>
+=======
       <file leaf-file-name="authenmiddle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/authenmiddle.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,10 +113,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+=======
       <file leaf-file-name="renderer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/renderer.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -446,11 +484,14 @@
                 <element signature="e#75331#75402#1" />
                 <element signature="e#75499#75595#0" />
                 <element signature="e#75733#75879#0" />
+>>>>>>> master
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
       <file leaf-file-name="keys.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/keys.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -460,6 +501,7 @@
           </provider>
         </entry>
       </file>
+>>>>>>> master
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -487,6 +529,13 @@
       <list>
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/swiper/__init__.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/user/models.py" />
+        <option value="$PROJECT_DIR$/user/urls.py" />
+        <option value="$PROJECT_DIR$/swiper/config.py" />
+        <option value="$PROJECT_DIR$/user/logic.py" />
+=======
+>>>>>>> master
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/swiper/config.py" />
@@ -509,6 +558,9 @@
         <option value="$PROJECT_DIR$/script/dbscript.py" />
         <option value="$PROJECT_DIR$/social/serializer.py" />
         <option value="$PROJECT_DIR$/user/views.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/swiper/urls.py" />
+=======
         <option value="$PROJECT_DIR$/social/urls.py" />
         <option value="$PROJECT_DIR$/vip/models.py" />
         <option value="$PROJECT_DIR$/social/test.py" />
@@ -521,6 +573,7 @@
         <option value="$PROJECT_DIR$/lib/authenmiddle.py" />
         <option value="$PROJECT_DIR$/utils/keys.py" />
         <option value="$PROJECT_DIR$/lib/orm.py" />
+>>>>>>> master
       </list>
     </option>
   </component>
@@ -530,11 +583,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-96" />
+    <option name="y" value="18" />
+    <option name="width" value="1386" />
+    <option name="height" value="712" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="174" />
     <option name="y" value="224" />
     <option name="width" value="1386" />
     <option name="height" value="744" />
+>>>>>>> master
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -554,21 +615,28 @@
             <path>
               <item name="swiper" type="b2602c69:ProjectViewProjectNode" />
               <item name="swiper" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="social" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swiper" type="b2602c69:ProjectViewProjectNode" />
               <item name="swiper" type="462c0819:PsiDirectoryNode" />
               <item name="logs" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
             </path>
             <path>
               <item name="swiper" type="b2602c69:ProjectViewProjectNode" />
               <item name="swiper" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="social" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swiper" type="b2602c69:ProjectViewProjectNode" />
               <item name="swiper" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
               <item name="swiper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -740,11 +808,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.37781352" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4299517" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40257648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14372164" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.16414523" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+=======
       <window_info active="true" anchor="bottom" id="File Transfer" visible="true" weight="0.30756843" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40963855" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -757,9 +836,59 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.568438" />
+>>>>>>> master
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.568438" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39130434" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34299517" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.28663447" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="manage.py@qfttsx" order="12" weight="0.51446944" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.37781352" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11951589" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.36392915" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.33816424" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14220877" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33494365" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32850242" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="manage.py@qfttsx" order="13" weight="0.51446944" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.37781352" />
+=======
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -793,6 +922,7 @@
       <window_info anchor="bottom" id="manage.py@qfttsx" order="12" weight="0.51446944" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.32850242" />
       <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> master
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -854,7 +984,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/django/utils/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="491" selection-start-line="491" selection-end-line="491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="538" column="8" selection-start-line="538" selection-start-column="8" selection-end-line="538" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://99442075-0b12-457f-8cea-aea72af07a56/schema/swiper/table/user_profile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+=======
     <entry file="das://99442075-0b12-457f-8cea-aea72af07a56/schema/swiper/table/user_profile" />
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/swiper/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -866,6 +1027,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" selection-start-line="5" selection-end-line="6" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -873,6 +1035,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -894,6 +1063,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -901,6 +1073,231 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="84" column="60" lean-forward="true" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/response_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="507" column="8" selection-start-line="507" selection-start-column="8" selection-end-line="507" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swiper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swiper/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/dbscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://99442075-0b12-457f-8cea-aea72af07a56/schema/swiper/table/social_swiped">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://99442075-0b12-457f-8cea-aea72af07a56/schema/swiper/table/user_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://99442075-0b12-457f-8cea-aea72af07a56/schema/swiper/table/social_friend">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/social/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swiper/__init__.py">
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/__init__.py">
+>>>>>>> master
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/user/apps.py">
+=======
+    <entry file="file://$PROJECT_DIR$/worker/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/config.py">
+>>>>>>> master
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/user/models.py">
+=======
+    <entry file="file://$PROJECT_DIR$/utils/user_sign.py">
+>>>>>>> master
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="145">
+          <caret line="239" column="4" selection-start-line="239" selection-start-column="4" selection-end-line="239" selection-end-column="4" />
+=======
+        <state relative-caret-position="361">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -913,6 +1310,10 @@
     </entry>
     <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/mixins.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="180">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+=======
         <state relative-caret-position="190">
           <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
         </state>
@@ -1077,26 +1478,37 @@
             <element signature="e#4389#4421#0" />
             <element signature="e#4521#4786#0" />
           </folding>
+>>>>>>> master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/userpermission.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-46">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+=======
         <state relative-caret-position="330">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
+>>>>>>> master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="870">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+=======
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -1149,6 +1561,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user/models.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="120">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+=======
         <state relative-caret-position="750">
           <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
         </state>
@@ -1161,6 +1577,7 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -1171,6 +1588,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://E:/virtual/tantan/Lib/site-packages/rest_framework/renderers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+=======
     <entry file="file://$PROJECT_DIR$/logs/error.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1556,6 +1979,7 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -1572,6 +1996,26 @@
           <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="e#13#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swiper/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
